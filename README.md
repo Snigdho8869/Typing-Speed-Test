@@ -23,8 +23,8 @@ TypeSprint is a typing speed checker application built using Flask, HTML, CSS, a
 
 ## Application Interface
 <br>
-<img src="ui/ui-1.png" alt="Original Image" width="700">
+<img src="ui/ui-1.PNG" alt="Original Image" width="700">
 
 <br>
 <br>
-<img src="ui/ui-2.png" alt="Original Image" width="700">
+<img src="ui/ui-2.PNG" alt="Original Image" width="700">
